@@ -1,0 +1,4 @@
+\\vmware-host\shared folders\文稿\Visual Studio 2013\Projects\PickEmoticon\EmoticonCommon\bin\Debug\EmoticonCommon.dll
+\\vmware-host\shared folders\文稿\Visual Studio 2013\Projects\PickEmoticon\EmoticonCommon\bin\Debug\EmoticonCommon.pdb
+\\vmware-host\shared folders\文稿\Visual Studio 2013\Projects\PickEmoticon\EmoticonCommon\obj\Debug\EmoticonCommon.dll
+\\vmware-host\shared folders\文稿\Visual Studio 2013\Projects\PickEmoticon\EmoticonCommon\obj\Debug\EmoticonCommon.pdb
